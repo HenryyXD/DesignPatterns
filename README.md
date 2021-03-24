@@ -31,4 +31,6 @@
 
 ## Abstract Factory - Criacional 
 * É um padrão de projeto criacional que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
-![Estrutura Abstract Factory](/Abstract Factory/src/img/logo.png)
+<p align="center">
+  <img src="https://refactoring.guru/images/patterns/diagrams/abstract-factory/structure.png">
+</p>
