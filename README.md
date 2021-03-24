@@ -28,3 +28,7 @@
 * Builder é um padrão de projeto de software criacional que permite a separação da construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes representações.  
 -> Problema - Criar objetos complexos especificando apenas seu tipo e conteúdo.  
 -> Solução - Isolar a forma que os passos reais usados na criação de objetos complexos tomam, de modo que o processo possa ser usado novamente para a criação de um conjunto de objetos simples de igual forma a criação do primeiro.  
+
+## Abstract Factory - Criacional 
+* É um padrão de projeto criacional que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
+![Estrutura Abstract Factory](/Abstract Factory/src/img/logo.png)
