@@ -38,3 +38,12 @@
 
 ## MVC - Padrão de Arquitetura
 * MVC é um **padrão de arquitetura** de software, separando sua aplicação em 3 camadas. A camada de interação do usuário(view), a camada de manipulação dos dados(model) e a camada de controle(controller).
+
+
+## Decorator - Estrutural 
+* O Decorator é um padrão de projeto estrutural que permite que você acople novos comportamentos para objetos ao colocá-los dentro de invólucros de objetos que contém os comportamentos.
+-> Problema - Adicionar novas funcionalidades em um objeto existente sem mecher em sua estrutura.  
+-> Solução - usando Agregação ou Composição e criando uma "pilha" de objetos através da criação de uma classe Decorator que guarda o próximo objeto da pilha.
+<p align="center">
+  <img src="https://refactoring.guru/images/patterns/diagrams/decorator/structure.png?id=8c95d894aecce5315cc1">
+</p>
