@@ -55,3 +55,12 @@
 <p align="center">
   <img src="https://refactoring.guru/images/patterns/diagrams/strategy/structure-2x.png?id=5bd791857c3bab419bcf" width = 450>
 </p>
+
+
+## State - Comportamental  
+* O State é um padrão de projeto comportamental que permite que um objeto altere seu comportamento quando o estado do programa muda.  
+- Essa estrutura pode ser parecida com o padrão **Strategy**, mas há uma diferença chave. No padrão State, os estados em particular podem estar cientes de cada um e iniciar transições de um estado para outro, enquanto que estratégias quase nunca sabem sobre as outras estratégias.  
+<p align="center">
+  <img src="https://refactoring.guru/images/patterns/diagrams/state/structure-pt-br.png?id=50efedb80eab6994524b" width = 500>
+</p>
+
