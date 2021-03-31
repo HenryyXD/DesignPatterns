@@ -64,3 +64,6 @@
   <img src="https://refactoring.guru/images/patterns/diagrams/state/structure-pt-br.png?id=50efedb80eab6994524b" width = 500>
 </p>
 
+
+## Adapter - Estrutural  
+* Padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si.  
